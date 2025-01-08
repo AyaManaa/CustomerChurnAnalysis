@@ -11,7 +11,7 @@ This project involves analyzing customer churn using Tableau to derive insights 
           
           - This query was created to get the student, purchase IDs, and the student's Country. Created a subscription Type (Monthly, Annual, or Lifetime), Revenue                Type (New, or Recurring), and Refundes (Revenue, or Refunded) columns  using the CASE statement. Grouping by the purchase ID using the data from the                 Purchases and Students tables using INNER JOIN
       2. Ressurected Data Query:      
-        - This query was created to Collect the data of the resurrected students, who didn't renew but resubscribed after a while—created First Subscription Type and Ressurected Subscription Type columns using                  the CASE statement. Using SELF JOIN on the Subscriptions table and Grouping By the Student ID.
+          - This query was created to Collect the data of the resurrected students, who didn't renew but resubscribed after a while—created First Subscription Type                   and Ressurected Subscription Type columns using the CASE statement. Using SELF JOIN on the Subscriptions table and Grouping By the Student ID.
       3. Upgraded Users Query
           - This query extracts the students who upgraded their subscription plan From Monthly to either Annual Or Lifetime plan. I used SELF JOIN on the Purchases                 Table, then used INNER JOIN on the Students table.
       4. Active and Passive Churns
