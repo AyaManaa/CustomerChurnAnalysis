@@ -1,4 +1,7 @@
 This project involves analyzing customer churn using Tableau to derive insights from the data. The data preparation was done using SQL, followed by visualization in Tableau.
+
+#### Tableau Story Link:  https://public.tableau.com/app/profile/aya.manaa/viz/CustomerChurn_17354705962280/Story1?publish=yes 
+
 # A. Data Preparations:
   - Used My SQL to extract CSV files from the tables existing in the database, to facilitate analyzing customer churn in Tableau
   1. In the Customer Churn Database, contains three tables:
